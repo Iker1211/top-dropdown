@@ -1,5 +1,5 @@
 {
-  "name": "top-dropdown",
+  "name": "simple-dropdown",
   "version": "1.0.0",
   "description": "A simple dropdown component with HTML, CSS and vanilla JS",
   "main": "index.js",
